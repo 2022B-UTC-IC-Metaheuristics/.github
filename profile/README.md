@@ -6,7 +6,8 @@ Universidad Tecnológica de la Mixteca
 
 1. [Snapsack Problem](https://github.com/2022B-UTC-IC-Metaheuristics/Snapsack-Problem)
 2. [Flow Shop Problem](https://github.com/2022B-UTC-IC-Metaheuristics/Flow-Shop-Scheduling)
-
+3. [Graph Coloring](https://github.com/2022B-UTC-IC-Metaheuristics/Graph-Coloring)
+4. [Capacitated Vehicle Routing Problem](https://github.com/2022B-UTC-IC-Metaheuristics/Capacitated-Vehicle-Routing-Problem)
 <!--
 
 **Here are some ideas to get you started:**

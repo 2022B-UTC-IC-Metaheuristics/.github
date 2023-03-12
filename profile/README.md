@@ -2,7 +2,7 @@
 
 Universidad Tecnológica de la Mixteca
 
-## Problemas de Optimiazación Combinatorios
+## Problemas de Optimización Combinatorios
 
 1. [Snapsack Problem](https://github.com/2022B-UTC-IC-Metaheuristics/Snapsack-Problem)
 2. [Flow Shop Problem](https://github.com/2022B-UTC-IC-Metaheuristics/Flow-Shop-Scheduling)

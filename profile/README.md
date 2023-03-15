@@ -8,6 +8,21 @@ Universidad Tecnológica de la Mixteca
 2. [Flow Shop Problem](https://github.com/2022B-UTC-IC-Metaheuristics/Flow-Shop-Scheduling)
 3. [Graph Coloring](https://github.com/2022B-UTC-IC-Metaheuristics/Graph-Coloring)
 4. [Capacitated Vehicle Routing Problem](https://github.com/2022B-UTC-IC-Metaheuristics/Capacitated-Vehicle-Routing-Problem)
+5. [Sequential Ordering Problem](https://github.com/2022B-UTC-IC-Metaheuristics/Sequential-Ordering-Problem)
+6. [Quadratic Assignment Problem](https://github.com/2022B-UTC-IC-Metaheuristics/Quadratic-Assignment-Problem)
+7. [Travel Salesman Problem](https://github.com/2022B-UTC-IC-Metaheuristics/Travel-Salesman-Problem)
+
+
+## Problemas de Optimización Continuos
+
+1.
+2.
+3.
+4.
+5.
+6. 
+7. 
+
 <!--
 
 **Here are some ideas to get you started:**

@@ -23,6 +23,17 @@ Universidad Tecnológica de la Mixteca
 6. 
 7. 
 
+## Contribuciones
+
+### 2023
+
+Jose Eduardo Castellanos Narvaez, David German Castro Ortiz, Baruc Cisneros Cruz, Leonel Cruz Peralta, Samuel Antonio Guerrero Hernandez, Jesus Alejandro Lopez Guevara, Austin Lopez Ituarte, William Mendez Gonzalez, Luis Rene Morales Velasco, Brenda Negrete Sanchez, Miguel Angel Uribe Matus, Nydia Beatriz Maciel Lopez
+
+### 2022
+
+Aldaz Contreras Daniela, Avendaño Ramirez Juan Guillermo, Cariño Bravo Luis Angel, Cisneros Oropeza Carlos Manuel, Gonzalez Mendoza Ivan, Gonzalez Ruiz Vilma Denisse, Gonzalez Valentin Armando Fabian, Guzman Jimenez Daniel Enrique, Hernandez Garcia Tranquilino, Ibarra Esperanza Diego Fernando, Jose Zuñiga Efrain, Maciel Lopez Nydia Beatriz, Payan Rosales Carlos Antonio, Paz Mendoza Jose Manuel, Santiago Martinez Ruben Emmanuel, Vasquez Tejada Victor Antonio, Vazquez Guzman Juan Pablo Anuard.
+
+
 <!--
 
 **Here are some ideas to get you started:**

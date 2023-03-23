@@ -15,13 +15,13 @@ Universidad Tecnológica de la Mixteca
 
 ## Problemas de Optimización Continuos
 
-1.
-2.
-3.
-4.
-5.
-6. 
-7. 
+1.[Drop-Wave Function](https://github.com/2022B-UTC-IC-Metaheuristics/B01-Drop-Wave-Function/settings/access)
+2.[Ackley Function]()
+3.[Cross-in-Tray Function]()
+4.[Eggholder Function](Eggholder Function)
+5.[Griewank Function]()
+6.[Holder Table Function]()
+7.[Rastrigin Function]()
 
 ## Contribuciones
 

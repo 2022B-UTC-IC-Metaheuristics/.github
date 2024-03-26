@@ -11,7 +11,7 @@ Universidad Tecnológica de la Mixteca
 5. [Sequential Ordering Problem](https://github.com/2022B-UTC-IC-Metaheuristics/Sequential-Ordering-Problem)
 6. [Quadratic Assignment Problem](https://github.com/2022B-UTC-IC-Metaheuristics/Quadratic-Assignment-Problem)
 7. [Travel Salesman Problem](https://github.com/2022B-UTC-IC-Metaheuristics/Travel-Salesman-Problem)
-
+8. [N-Queens Problem](https://github.com/2022B-UTC-IC-Metaheuristics/N-Queens-Problem)
 
 ## Problemas de Optimización Continuos
 

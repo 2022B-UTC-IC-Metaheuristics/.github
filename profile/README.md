@@ -15,7 +15,7 @@ Universidad Tecnológica de la Mixteca
 
 ## Problemas de Optimización Continuos
 
-1. [Drop-Wave Function](https://github.com/2022B-UTC-IC-Metaheuristics/B01-Drop-Wave-Function/settings/access)
+1. [Drop-Wave Function](https://github.com/2022B-UTC-IC-Metaheuristics/B01-Drop-Wave-Function)
 2. [Cross-in-Tray Function](https://github.com/2022B-UTC-IC-Metaheuristics/B02-Cross-in-Tray-Function)
 3. [Ackley Function](https://github.com/2022B-UTC-IC-Metaheuristics/B03-Ackley-Function)
 4. [Eggholder Function](https://github.com/2022B-UTC-IC-Metaheuristics/B04-Eggholder-Function)

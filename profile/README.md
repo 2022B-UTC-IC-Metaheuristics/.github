@@ -19,7 +19,7 @@ Universidad Tecnológica de la Mixteca
 2. [Cross-in-Tray Function](https://github.com/2022B-UTC-IC-Metaheuristics/B02-Cross-in-Tray-Function)
 3. [Ackley Function](https://github.com/2022B-UTC-IC-Metaheuristics/B03-Ackley-Function)
 4. [Eggholder Function](https://github.com/2022B-UTC-IC-Metaheuristics/B04-Eggholder-Function)
-5. [Griewank Function](https://github.com/2022B-UTC-IC-Metaheuristics/B05-Griewank-Function/settings/access)
+5. [Griewank Function](https://github.com/2022B-UTC-IC-Metaheuristics/B05-Griewank-Function)
 6. [Holder Table Function](https://github.com/2022B-UTC-IC-Metaheuristics/B06-Holder-Table-Function)
 7. [Rastrigin Function](https://github.com/2022B-UTC-IC-Metaheuristics/B07-Rastrigin-Function)
 
